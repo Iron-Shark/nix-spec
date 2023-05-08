@@ -1,0 +1,1 @@
+This sub-dir holds the only version of specialisations I am currently able to get working. After using the GUI installer, replace the normal /etc/nixos/configuration.nix with these files to get non-encrypted specialisations working.
